@@ -197,12 +197,44 @@ int main() {
     }
     cout << b;*/
 
-    int a,b=0;
-    cin>>a;
-    for (int i=10,i<=)
+    /*problem12
+    int num, reverse = 0;
+    cin >> num;
+    while (num > 0) {
+        int temp = num % 10;
+        reverse += temp;
+        reverse *= 10;
+        num /= 10;
+    }
+    if (reverse % 10 == 0) {
+        reverse /= 10;
+    }
 
+    cout << reverse;*/
+    /*problem13
+    int a;
+    cin >> a;
+    if (a==0) {
+        cout<<"the depth is 0";
+    }
+    else
+        for (int i=1; i<=a; i++) {
+            for (int j=1; j<=i; j++) {
+                cout<<i;
+            }
+            cout<<endl;
+        }*/
+    /*problem 14
+    int a,decimal=0,b=1,c;
+    cin >> a;
+    while (a>0) {
+        c=a%10;
+        a=a/10;
+        decimal+=c*b;
+        b*=2;
 
-
+    }
+    cout<<decimal;*/
 
     return 0;
 }
