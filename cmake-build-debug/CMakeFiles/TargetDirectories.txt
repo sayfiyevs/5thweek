@@ -1,0 +1,3 @@
+/Users/s.sayfiyev/CLionProjects/5thweek/cmake-build-debug/CMakeFiles/5thweek.dir
+/Users/s.sayfiyev/CLionProjects/5thweek/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/s.sayfiyev/CLionProjects/5thweek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
